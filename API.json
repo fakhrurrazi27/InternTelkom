@@ -1,0 +1,34 @@
+{
+    "billing_2_amountTotal" : "100000", // jumlah tagihan 2 bulan yang lalu
+    "billing_3_amountTotal" : "100000", // jumlah tagihan 3 bulan yang lalu
+    "billing_4_amountTotal" : "100000", // dst
+    "billing_5_amountTotal" : "100000",
+    "billing_6_amountTotal" : "100000",
+    "billing_7_amountTotal" : "100000",
+    "billing_8_amountTotal" : "100000",
+    "billing_9_amountTotal" : "100000",
+    "billing_10_amountTotal" : "100000",
+    "billing_11_amountTotal" : "100000",
+    "billing_2_channel" : "FINNET BANK - BANK RAKYAT INDONESIA", // channel pembayaran 2 bulan yang lalu
+    "billing_3_channel" : "FINNET BANK - BANK RAKYAT INDONESIA", // channel pembayaran 3 bulan yang lalu
+    "billing_4_channel" : "FINNET BANK - BANK RAKYAT INDONESIA", //dst
+    "billing_5_channel" : "FINNET BANK - BANK RAKYAT INDONESIA",
+    "billing_6_channel" : "FINNET BANK - BANK RAKYAT INDONESIA",
+    "billing_7_channel" : "FINNET BANK - BANK RAKYAT INDONESIA",
+    "billing_8_channel" : "FINNET BANK - BANK RAKYAT INDONESIA",
+    "billing_9_channel" : "FINNET BANK - BANK RAKYAT INDONESIA",
+    "billing_10_channel" : "FINNET BANK - BANK RAKYAT INDONESIA",
+    "billing_11_channel" : "FINNET BANK - BANK RAKYAT INDONESIA",
+    "billing_2_paymentDate" : 20210913, // tanggal pembayaran 2 bulan yang lalu
+    "billing_3_paymentDate" : 20210815, // tanggal pembayaran 3 bulan yang lalu
+    "billing_4_paymentDate" : 20210726, //dst
+    "billing_5_paymentDate" : 20210606,
+    "billing_6_paymentDate" : 20210527,
+    "billing_7_paymentDate" : 20210402,
+    "billing_8_paymentDate" : 20210316,
+    "billing_9_paymentDate" : 20210220,
+    "billing_10_paymentDate" : 20210121,
+    "billing_11_paymentDate" : 20201231,
+    "gladius_paketradius" : "INETNLOY20", // paket internet
+    "usage" : 0 // jumlah penggunaan kuota internet bulan terakhir
+    }
