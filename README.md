@@ -29,6 +29,7 @@ uvicorn main:app --reload
 Secara default dia akan jalan secara lokal di 127.0.0.1 dengan port 8000 
 
 Output jika runnning berhasil
+
 ![image](https://user-images.githubusercontent.com/94620431/143467871-e8eec90c-c5d9-4981-8973-cd9e58187a3c.png)
 
 Jika ingin di jalankan di port dan address host yang berbeda bisa mengunakan option --host dan --port
