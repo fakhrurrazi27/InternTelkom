@@ -40,7 +40,8 @@ uvicorn --host [host address] --port [nilai port]  main:app --reload
 # Menggunakan API
 kita akan memprediksi status pembayaran user, apakah user tersebut akan bayar tepat waktu sebelum tanggal 20, telat bayar (bayar di atas tanggal 20), atau tidak membayar, untuk mengunakan endpoint bisa dengan menyiapkan body parameternya berupa format JSON dengan format seperti berikut
 
-```{
+```
+{
     "billing_2_amountTotal" : "341.000,00", // jumlah tagihan 2 bulan yang lalu
     "billing_3_amountTotal" : "341.000,00", // jumlah tagihan 3 bulan yang lalu
     "billing_4_amountTotal" : "341.000,00", // dst
