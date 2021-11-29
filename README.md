@@ -98,4 +98,4 @@ API akan mengembalikan JSON juga dengan dua jenis model, model pertama mengembal
 }
 ```
 ## Contoh mengunakan POSTMAN
-![image](https://user-images.githubusercontent.com/94620431/143470957-3f90e366-22b1-4ad6-b34f-427d2e5dc97d.png)
+![image](https://user-images.githubusercontent.com/94620431/143846469-df531e18-9a33-4793-841e-87ee77534665.png)
