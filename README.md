@@ -80,7 +80,7 @@ dan untuk URL API mengunakan format sebagai berikut
 ```
 http://[Host]:[Port]/predict
 ```
-dan request method yang digunakan adalah **GET** 
+dan request method yang digunakan adalah **PUT** 
 API akan mengembalikan JSON juga dengan dua jenis model, model pertama mengembalikan tiga persentase probabilitas status pembayaran bulan selanjutnya (bayar tepat waktu, telat bayar, dan tidak bayar), dan model kedua dengan 2 persentase status pembayaran bulan selanjutnya (bayar tepat waktu, dan telat bayar)
 
 ## Hasil Retun API
