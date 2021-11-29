@@ -89,7 +89,7 @@ def late(x):
     else:
         return 'LATE PAID'
 
-@app.get('/predict')
+@app.put('/predict')
 def predict(data: Gladius):
     arr = [amount(data.billing_2_amountTotal),
        amount(data.billing_3_amountTotal),
